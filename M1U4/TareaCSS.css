@@ -1,0 +1,14 @@
+#body{
+    background-color: rgba(0,0,0, 50%);
+}
+.SobreMi{
+    background-color: salmon;
+    color: aliceblue;
+    padding: 10px;
+    width: 20%;
+    margin: 5px;
+    border-radius: 10px;
+}
+.Padre{
+    display: flex;
+}
