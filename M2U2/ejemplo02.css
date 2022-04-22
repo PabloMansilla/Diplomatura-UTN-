@@ -1,0 +1,29 @@
+section {
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+#azul {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+#rojo {
+    background-color: red;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+
+#verde {
+    background-color: green;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
